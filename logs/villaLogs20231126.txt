@@ -1,0 +1,88 @@
+2023-11-26 19:23:16.554 -06:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2023-11-26 19:23:16.626 -06:00 [DBG] Hosting starting
+2023-11-26 19:23:16.696 -06:00 [INF] Now listening on: http://localhost:5034
+2023-11-26 19:23:16.696 -06:00 [DBG] Loaded hosting startup assembly MagicVillaAPI
+2023-11-26 19:23:16.696 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-26 19:23:16.697 -06:00 [INF] Hosting environment: Development
+2023-11-26 19:23:16.697 -06:00 [INF] Content root path: /home/l/Documents/Develop/BhrugenPatel/MagicVillaAPI
+2023-11-26 19:23:16.697 -06:00 [DBG] Hosting started
+2023-11-26 19:23:31.864 -06:00 [INF] Application is shutting down...
+2023-11-26 19:23:31.867 -06:00 [DBG] Hosting stopping
+2023-11-26 19:23:31.887 -06:00 [DBG] Hosting stopped
+2023-11-26 19:23:43.487 -06:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2023-11-26 19:23:43.562 -06:00 [DBG] Hosting starting
+2023-11-26 19:23:43.670 -06:00 [INF] Now listening on: http://localhost:5034
+2023-11-26 19:23:43.670 -06:00 [DBG] Loaded hosting startup assembly MagicVillaAPI
+2023-11-26 19:23:43.671 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-26 19:23:43.671 -06:00 [INF] Hosting environment: Development
+2023-11-26 19:23:43.672 -06:00 [INF] Content root path: /home/l/Documents/Develop/BhrugenPatel/MagicVillaAPI
+2023-11-26 19:23:43.672 -06:00 [DBG] Hosting started
+2023-11-26 19:24:09.386 -06:00 [INF] Application is shutting down...
+2023-11-26 19:24:09.390 -06:00 [DBG] Hosting stopping
+2023-11-26 19:24:09.430 -06:00 [DBG] Hosting stopped
+2023-11-26 19:24:12.671 -06:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2023-11-26 19:24:12.741 -06:00 [DBG] Hosting starting
+2023-11-26 19:24:12.807 -06:00 [INF] Now listening on: http://localhost:5034
+2023-11-26 19:24:12.807 -06:00 [DBG] Loaded hosting startup assembly MagicVillaAPI
+2023-11-26 19:24:12.808 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-26 19:24:12.808 -06:00 [INF] Hosting environment: Development
+2023-11-26 19:24:12.808 -06:00 [INF] Content root path: /home/l/Documents/Develop/BhrugenPatel/MagicVillaAPI
+2023-11-26 19:24:12.808 -06:00 [DBG] Hosting started
+2023-11-26 19:24:17.400 -06:00 [INF] Application is shutting down...
+2023-11-26 19:24:17.403 -06:00 [DBG] Hosting stopping
+2023-11-26 19:24:17.448 -06:00 [DBG] Hosting stopped
+2023-11-26 19:24:26.964 -06:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2023-11-26 19:24:27.224 -06:00 [DBG] Hosting starting
+2023-11-26 19:24:27.450 -06:00 [INF] Now listening on: http://localhost:5034
+2023-11-26 19:24:27.450 -06:00 [DBG] Loaded hosting startup assembly MagicVillaAPI
+2023-11-26 19:24:27.451 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-26 19:24:27.451 -06:00 [INF] Hosting environment: Development
+2023-11-26 19:24:27.451 -06:00 [INF] Content root path: /home/l/Documents/Develop/BhrugenPatel/MagicVillaAPI
+2023-11-26 19:24:27.451 -06:00 [DBG] Hosting started
+2023-11-26 19:26:42.858 -06:00 [INF] Application is shutting down...
+2023-11-26 19:26:42.862 -06:00 [DBG] Hosting stopping
+2023-11-26 19:26:42.915 -06:00 [DBG] Hosting stopped
+2023-11-26 19:28:05.972 -06:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2023-11-26 19:28:06.048 -06:00 [DBG] Hosting starting
+2023-11-26 19:28:06.126 -06:00 [INF] Now listening on: http://localhost:5034
+2023-11-26 19:28:06.126 -06:00 [DBG] Loaded hosting startup assembly MagicVillaAPI
+2023-11-26 19:28:06.127 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-26 19:28:06.128 -06:00 [INF] Hosting environment: Development
+2023-11-26 19:28:06.128 -06:00 [INF] Content root path: /home/l/Documents/Develop/BhrugenPatel/MagicVillaAPI
+2023-11-26 19:28:06.128 -06:00 [DBG] Hosting started
+2023-11-26 19:29:43.484 -06:00 [INF] Application is shutting down...
+2023-11-26 19:29:43.488 -06:00 [DBG] Hosting stopping
+2023-11-26 19:29:43.527 -06:00 [DBG] Hosting stopped
+2023-11-26 19:29:53.483 -06:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2023-11-26 19:29:53.551 -06:00 [DBG] Hosting starting
+2023-11-26 19:29:53.618 -06:00 [INF] Now listening on: http://localhost:5034
+2023-11-26 19:29:53.618 -06:00 [DBG] Loaded hosting startup assembly MagicVillaAPI
+2023-11-26 19:29:53.618 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-26 19:29:53.619 -06:00 [INF] Hosting environment: Development
+2023-11-26 19:29:53.619 -06:00 [INF] Content root path: /home/l/Documents/Develop/BhrugenPatel/MagicVillaAPI
+2023-11-26 19:29:53.619 -06:00 [DBG] Hosting started
+2023-11-26 19:45:15.836 -06:00 [INF] Application is shutting down...
+2023-11-26 19:45:15.840 -06:00 [DBG] Hosting stopping
+2023-11-26 19:45:15.873 -06:00 [DBG] Hosting stopped
+2023-11-26 19:45:29.461 -06:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2023-11-26 19:45:29.538 -06:00 [DBG] Hosting starting
+2023-11-26 19:45:29.657 -06:00 [INF] Now listening on: http://localhost:5034
+2023-11-26 19:45:29.657 -06:00 [DBG] Loaded hosting startup assembly MagicVillaAPI
+2023-11-26 19:45:29.659 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-26 19:45:29.660 -06:00 [INF] Hosting environment: Development
+2023-11-26 19:45:29.660 -06:00 [INF] Content root path: /home/l/Documents/Develop/BhrugenPatel/MagicVillaAPI
+2023-11-26 19:45:29.660 -06:00 [DBG] Hosting started
+2023-11-26 19:46:33.607 -06:00 [INF] Application is shutting down...
+2023-11-26 19:46:33.611 -06:00 [DBG] Hosting stopping
+2023-11-26 19:46:33.649 -06:00 [DBG] Hosting stopped
+2023-11-26 19:46:49.405 -06:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2023-11-26 19:46:49.496 -06:00 [DBG] Hosting starting
+2023-11-26 19:46:49.567 -06:00 [INF] Now listening on: http://localhost:5034
+2023-11-26 19:46:49.567 -06:00 [DBG] Loaded hosting startup assembly MagicVillaAPI
+2023-11-26 19:46:49.568 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-26 19:46:49.569 -06:00 [INF] Hosting environment: Development
+2023-11-26 19:46:49.569 -06:00 [INF] Content root path: /home/l/Documents/Develop/BhrugenPatel/MagicVillaAPI
+2023-11-26 19:46:49.569 -06:00 [DBG] Hosting started
+2023-11-26 19:58:30.375 -06:00 [INF] Application is shutting down...
+2023-11-26 19:58:30.379 -06:00 [DBG] Hosting stopping
+2023-11-26 19:58:30.435 -06:00 [DBG] Hosting stopped
